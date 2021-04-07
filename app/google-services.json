@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1035214318629",
+    "project_id": "fiery-melody-292404",
+    "storage_bucket": "fiery-melody-292404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035214318629:android:18c7c45adc11676d3063cc",
+        "android_client_info": {
+          "package_name": "com.codedesign.locationbackgroundtryout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035214318629-d3n1523bl6meruau1jeusva0scedgqi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codedesign.locationbackgroundtryout",
+            "certificate_hash": "15378169ffd6cbbcc3796ecd62ad03b245750cce"
+          }
+        },
+        {
+          "client_id": "1035214318629-ocdbj80o2pq552u9srkjemtq4kddadv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLA16MEHORMm8SZ2FvsQDqdBsL9bRQlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035214318629-ocdbj80o2pq552u9srkjemtq4kddadv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
